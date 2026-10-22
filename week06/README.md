@@ -7,4 +7,5 @@
 
 ## 실습 결과 화면 (localhost:8082)
 
-<img width="1039" height="971" alt="guestbook" src="https://github.com/user-attachments/assets/ca70a028-ba7d-4fb0-a1aa-1dd7f8d86ebb" />
+<img width="512" height="512" alt="0264c2d6-c0e2-40f8-baeb-316922df30a4" src="https://github.com/user-attachments/assets/a61d96f0-1503-4b2b-9cf7-519262c62414" />
+
